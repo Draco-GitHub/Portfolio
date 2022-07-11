@@ -16,7 +16,8 @@ body {
   height: 100vh;
   background-color: #e6e6e6;
   line-height:1;
-  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+  background-color: rgb(16, 16, 25);
 }
 
 .container {
